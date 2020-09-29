@@ -66,25 +66,62 @@
    
   </div>
   <div class="container">
-  <div class="row">
+    <div class="row">
+    <h2>Sobre mi pagina</h2>
+    <p>Moda increíble a precios increíbles. Producto 100% local. Quédate en casa mientras escoges moda a precios increíbles. ¡Compra en Surtitodo online! Devoluciones gratis. Compra 100% segura. Envíos para todo el país. Compra desde casa.
+    que opera con cien tiendas en Colombia y cuarenta distribuidas en México, Ecuador, Venezuela, Costa Rica y Perú
+    </p>
  
-    <div class="col-12 col-md-8">
-<h1>koaj</h1>
-<p>Moda increíble a precios increíbles. Producto 100% local. Quédate en casa mientras escoges moda a precios increíbles. ¡Compra en Surtitodo online! Devoluciones gratis. Compra 100% segura. Envíos para todo el país. Compra desde casa..</p>
-<img src="img/4koaj.png" alt="imagen1">
-<h1>tiendas</h1>
-<p>Permoda, que opera con cien tiendas en Colombia y cuarenta distribuidas en México, Ecuador, Venezuela, Costa Rica y Perú..</p>
-<img src="img/2koaj.png" alt="img2" height="300">
-   </div>
-   <div class="col-12 col-md-4">
-  <h1>redes sociales </h1>
-  <p>instragram:koajmoda
-  facebook:koajmoda
-  pagina:koaj
-  <img src="img/5koaj.jpg" alt="img2" height="300">
-  </p>
-</div>
-</div>
+
+    <div class="col-12 col-md-3">
+    <img src="img/1ropamujer.png" alt="1mujer">
+      <h6>camisa mujer tounko
+          $19.900
+        </h6>
+        <img src="img/2ropamujer.jpg" alt="2mujer">
+      <h6>camisa  mujer 
+          19.900
+        </h6>  
+
+    </div>
+    
+    <div class="col-12 col-md-3">
+    <img src="img/1ropahombre.jpg" alt="1hombre">
+    <h6>camiseta hombre
+    $24.900
+        </h6>  
+        <img src="img/2ropahombre.jpg" alt="2hombre">
+      <h6>camiseta hombre 
+      $ 24.900
+        </h6>  
+  </div>
+    
+    <div class="col-12 col-md-3">
+    <img src="img/6ropa.png" alt="ch">
+    <h6>buso  mujer 
+        $48.900 
+        </h6>    
+        <img  src="img/.2buso.jpg" alt="pc">
+      <h6>buso hombre
+         $49.900
+        </h6>  
+        </div>
+
+        <div class="col-12 col-md-3">
+        <img src="img/1tenis.png" alt="be">
+    <h6>tenis  hombre
+    $99.900
+
+        </h6>    
+        <img src="img/2tenis.png" alt="vc">
+      <h6>tenis mujer
+      $99.900
+        </h6>  
+       </div>
+  
+    </div>
+     
+    </div>
 </div>
 </mein>
 <footer>
